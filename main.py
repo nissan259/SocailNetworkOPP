@@ -37,7 +37,6 @@ def main():
     p2 = u4.publish_post("Image", 'image1.jpg')
 
 
-
 #
 #     # Creating sale post
 #     p3 = u3.publish_post("Sale", "Toyota prius 2012", 42000, "Haifa")
@@ -72,7 +71,7 @@ def main():
 #     print(p3)
 #
 #     # Displaying the image of the post
-p2.display()
+    p2.display()
 #     print()
 #
 #     p2.comment(u5, "Amazing picture!")
